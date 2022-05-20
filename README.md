@@ -28,7 +28,6 @@
   <img src="https://img.icons8.com/dusk/64/000000/python.png"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-html-computer-programming-icons-flaticons-lineal-color-flat-icons-2.png"/>
-  <img src="https://img.icons8.com/stickers/100/000000/mysql.png"/>
   <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
